@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/ratelimiter/ratelimiter-annotation/target/
+/ratelimiter/ratelimiter-client-guava/target/
+/spring-cloud-eureka/spring-cloud-eureka-server/target/
